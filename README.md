@@ -1,5 +1,5 @@
 # EEE205 – Electronic Circuits I: Design Project
-## -Designing-An-Amplifier-With-A-Small-Signal-Voltage-Gain
+## Designing-An-Amplifier-With-A-Small-Signal-Voltage-Gain
 In this project, we learned about a BJT amplifier, and we also learned that 
 an amplifier designed using small-signal analysis must operate with a  small input signal to maintain linear gain and proper transistor operation.
 
